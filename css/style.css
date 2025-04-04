@@ -165,6 +165,7 @@ body {
 }
 
 .header .navbar ul li a:hover {
+    
     color: #e6f77e;
     text-decoration: underline;
 }
