@@ -137,9 +137,7 @@ body {
     left: 0;
 }
 
-.ibmLogo{
-
-}
+.ibmLogo {}
 
 .header .logo1 img {
     width: 120%;
@@ -155,6 +153,10 @@ body {
     justify-content: space-around;
 }
 
+.small-case {
+    text-transform: lowercase !important;
+}
+
 .header .navbar ul li {
     margin: 0 1.5rem;
 }
@@ -165,6 +167,7 @@ body {
 }
 
 .header .navbar ul li a:hover {
+
     color: #e6f77e;
     text-decoration: underline;
 }
